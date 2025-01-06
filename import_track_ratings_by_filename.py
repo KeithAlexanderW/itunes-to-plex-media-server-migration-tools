@@ -1,5 +1,4 @@
 import argparse
-import datetime
 import os
 import plexapi.audio
 import plexapi.exceptions
