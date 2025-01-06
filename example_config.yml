@@ -1,0 +1,13 @@
+# suggested location is the ./local directory since it's in .gitignore
+
+plex:
+    ip: http://192.168.0.0:32400
+    token: <your_plex_token_here>
+    library: Music
+
+itunes:
+    itunes_xml_file: C:\Users\[YourUsername]\Music\iTunes\iTunes Music Library.xml
+
+log:
+    log_tracks_with_zero_matches: true
+    log_skipped_tracks: true
